@@ -1,0 +1,196 @@
+body{
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    justify-content: center;
+}
+
+
+/* Header */
+.header{
+
+    color: seashell;
+    text-decoration:underline;
+}
+.mission{
+    color: seashell;
+    transform:translate(950px, -50px);
+    text-decoration: underline;
+}
+
+.featured-tea{
+   
+    Margin: 15px; 
+    color: seashell;
+    text-decoration: underline;
+   
+    
+
+    
+}
+.spiced-rum-tea{
+    transform:translate(0px, -50px);
+}
+.seasonal-donunt{
+    transform:translate(300px, -105px);
+}
+.locations{
+    color: seashell;
+    text-align: right;
+    transform:translate(130px, -100px);
+    margin-right: 20px;
+    text-decoration: underline;
+
+}
+
+/* Our Mission Text */
+.our-mission{
+    width: 1200px;
+    height: 100px;
+    background-color:black;
+    transform:translate(0px, -390px);
+    margin-top: -70px;
+    margin-right: 50px;
+    margin-left:  50px;
+    text-align:center;
+}
+/* images styles */
+
+.teacozy{
+   margin: 10px;
+   height: 50px;
+}
+.mission-background{
+    width: 1200px;
+    height: 700px;
+    margin-top: -20px;
+    margin-right: 50px;
+    margin-left:  50px;
+    border-bottom: 1px solid seashell;  
+}
+.featured-tea-images{
+    height:1000px;
+    width: 1000px;
+    background-color: black;
+    margin-left:  100px;
+    
+}
+.tea-images{
+    width:300px;
+    height: 200px;
+    display:flex;
+    margin:10px;
+    text-align:center;
+   
+
+}
+.bottom-tea-picturess{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    margin: 10px; 
+    transform:translate(135px, -375px);
+}
+.locations-background{
+    height: 500px;
+    width: 1200px;
+    transform:translate(0px,-750px);
+    margin:50px;
+    
+}
+/*Featured Tea section styles*/
+
+#FT{
+   
+   text-align: center;
+  
+  
+}
+.tea-of-the-month{  
+    text-align: center;
+    margin-right: 700px;
+    
+}
+.whats-steeping-at-the-tea-cozy{
+    margin-left: 40px;
+}
+.fall-berry-blitz-tea{
+    text-align: left;
+    margin-left: 70px;
+}
+.title-of-different-teas{
+    display: block;
+}
+.myrtle-ave-tea-text{
+    transform:translate(-200px,-750px);
+}
+.bedford-bizarre-tea-text{
+    transform:translate(120px,-800px);
+}
+
+/*locations section*/
+
+.location-text{
+    height:50px;
+    width:50px;
+    transform:translate(290px, -640px);
+    
+}
+
+.downtown{
+    width:300px;
+    height: 240px;
+    background-color: black;
+    display:inline-flex;
+    margin:40px;
+    transform:translate(120px, -1310px);
+ 
+    
+
+}
+.east-bayside{
+    width:300px;
+    height: 240px;
+    background-color: black;
+    display:inline-flex;
+    margin:40px;
+    transform:translate(80px, -1310px);
+}
+.oakdale{
+    width:300px;
+    height: 240px;
+    background-color: black;
+    display:inline-flex;
+    margin:40px;
+    transform:translate(45px, -1310px);
+    opacity:1;
+}
+.bold{
+    font-weight: bold;
+}
+.oakdale-text{
+    text-align: center;
+    margin:auto;
+}
+.east-bayside-text{
+    text-align: center;
+    margin:auto;
+}
+.downtown-text{
+    text-align: center;
+    margin:auto;
+}
+/*Footer*/
+.contact-info{
+    height: 200px;
+    text-align:center;
+    margin:auto;
+    transform:translate(-330px,-1210px);
+}
+.copyright{
+    text-align: left;
+    margin-left:20px;
+    transform:translate(0px, -1200px);
+}
